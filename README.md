@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- TERMINAL PING HEADER -->
+
 ```
 $ ping pramati.dev
 ```
@@ -20,7 +21,7 @@ $ ping pramati.dev
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS + STARS -->
+<!-- PROFILE VIEWS + FOLLOWERS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=pramatiiii&color=FAACBF&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/pramatiiii?style=for-the-badge&color=B5BAFF&labelColor=000000&label=followers)](https://github.com/pramatiiii?tab=followers)
 
@@ -28,24 +29,28 @@ $ ping pramati.dev
 
 </div>
 
-<!-- SYSTEM INFO TERMINAL BLOCK -->
+<!-- SYSTEM INFO — centered using HTML table trick so it works in GitHub -->
 <div align="center">
+<table>
+<tr><td>
 
 ```
-╔══════════════════════════════════════╗
-║         SYSTEM  INFORMATION          ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║           SYSTEM  INFORMATION            ║
+╚══════════════════════════════════════════╝
 
-$ cat /etc/profile.d/pramati.sh
+  $ cat /etc/profile.d/pramati.sh
 
-  Name      :  Pramati Gupta
-  Role      :  B.Tech CSE Student
-  Location  :  Bangalore, India 🇮🇳
-  Focus     :  AI/ML • Python • Java • UI/UX
-  Learning  :  DSA • Machine Learning • System Design
-  Status    :  Building projects and improving every day ✨
+      Name      :  Pramati Gupta
+      Role      :  B.Tech CSE Student
+      Location  :  Bangalore, India 🇮🇳
+      Focus     :  AI/ML • Python • Java • UI/UX
+      Learning  :  DSA • Machine Learning • System Design
+      Status    :  Building projects and improving every day ✨
 ```
 
+</td></tr>
+</table>
 </div>
 
 ---
@@ -75,11 +80,10 @@ $ cat /etc/profile.d/pramati.sh
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramatiiii&layout=compact&theme=transparent&title_color=FAACBF&text_color=FFF9D2&border_color=C1EBE9" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pramatiiii&theme=transparent&ring=FAACBF&fire=B5BAFF&currStreakLabel=C1EBE9&border=C1EBE9&currStreakNum=FFF9D2&sideLabels=CFECF3&sideNums=FFF9D2&dates=CFECF3)](https://git.io/streak-stats)
+<!-- STREAK — fixed URL (herokuapp was shut down, use streak-stats.demolab.com instead) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=pramatiiii&theme=transparent&ring=FAACBF&fire=B5BAFF&currStreakLabel=C1EBE9&border=C1EBE9&currStreakNum=FFF9D2&sideLabels=CFECF3&sideNums=FFF9D2&dates=CFECF3)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -104,24 +108,24 @@ $ cat /etc/profile.d/pramati.sh
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-%23FAACBF?style=for-the-badge&logo=python&logoColor=000)
-![Java](https://img.shields.io/badge/Java-%23B5BAFF?style=for-the-badge&logo=java&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FFF9D2?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML](https://img.shields.io/badge/HTML-%23C1EBE9?style=for-the-badge&logo=html5&logoColor=000)
-![CSS](https://img.shields.io/badge/CSS-%23CFECF3?style=for-the-badge&logo=css3&logoColor=000)
+![Java](https://img.shields.io/badge/Java-%23FAACBF?style=for-the-badge&logo=java&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FAACBF?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-%23FAACBF?style=for-the-badge&logo=html5&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-%23FAACBF?style=for-the-badge&logo=css3&logoColor=000)
 
 **AI / ML**
 
-![Pandas](https://img.shields.io/badge/Pandas-%23FAACBF?style=for-the-badge&logo=pandas&logoColor=000)
-![NumPy](https://img.shields.io/badge/NumPy-%23B5BAFF?style=for-the-badge&logo=numpy&logoColor=000)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23C1EBE9?style=for-the-badge&logo=scikit-learn&logoColor=000)
+![Pandas](https://img.shields.io/badge/Pandas-%23FFF9D2?style=for-the-badge&logo=pandas&logoColor=000)
+![NumPy](https://img.shields.io/badge/NumPy-%23FFF9D2?style=for-the-badge&logo=numpy&logoColor=000)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23FFF9D2?style=for-the-badge&logo=scikit-learn&logoColor=000)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-%23FAACBF?style=for-the-badge&logo=git&logoColor=000)
+![Git](https://img.shields.io/badge/Git-%23B5BAFF?style=for-the-badge&logo=git&logoColor=000)
 ![GitHub](https://img.shields.io/badge/GitHub-%23B5BAFF?style=for-the-badge&logo=github&logoColor=000)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23FFF9D2?style=for-the-badge&logo=visual-studio-code&logoColor=000)
-![Figma](https://img.shields.io/badge/Figma-%23C1EBE9?style=for-the-badge&logo=figma&logoColor=000)
-![Flask](https://img.shields.io/badge/Flask-%23CFECF3?style=for-the-badge&logo=flask&logoColor=000)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23B5BAFF?style=for-the-badge&logo=visual-studio-code&logoColor=000)
+![Figma](https://img.shields.io/badge/Figma-%23B5BAFF?style=for-the-badge&logo=figma&logoColor=000)
+![Flask](https://img.shields.io/badge/Flask-%23B5BAFF?style=for-the-badge&logo=flask&logoColor=000)
 
 </div>
 
@@ -145,12 +149,12 @@ for topic in learning:
 
 ---
 
-<!-- TROPHIES -->
+<!-- TROPHIES — working URL with correct theme -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pramatiiii&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pramatiiii&theme=flat&no-frame=true&row=1&column=6&title_color=FAACBF)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -159,8 +163,12 @@ for topic in learning:
 <!-- CONTRIBUTION SNAKE -->
 ## 🐍 Contribution Snake
 
+> ⚠️ **Setup needed:** The snake animation requires a one-time GitHub Action setup.
+> Follow the steps in the `snake-setup.yml` file provided separately, then this will animate automatically!
+
 <div align="center">
 
+<!-- Once the action runs, this will display. Until then it shows a placeholder. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pramatiiii/pramatiiii/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pramatiiii/pramatiiii/output/github-contribution-grid-snake.svg">
