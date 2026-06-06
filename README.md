@@ -1,117 +1,50 @@
-<h1 align="center">Hi 👋, I'm Pramati Gupta</h1>
-<h3 align="center">Software Engineering Intern | B.Tech CSE Student | Aspiring AI & Software Developer</h3>
+# Service Analytics System
 
-<p align="center">
-  <a href="https://github.com/pramatiiii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern;B.Tech+CSE+Student;Python+Developer;Java+Programmer;Learning+AI+%26+Machine+Learning;Building+Projects+and+Solving+Problems" alt="Typing SVG" />
-  </a>
-</p>
+A Python-based analytics platform designed to process, analyze, and visualize service request data. The system automates data processing workflows, generates key performance metrics, and provides graphical insights to support operational decision-making.
 
----
+## Features
 
-## 👩‍💻 About Me
+- Service request data ingestion and preprocessing
+- Data cleaning and validation
+- Statistical analysis of service records
+- Trend identification and performance monitoring
+- Automated report generation
+- Data visualization using graphs and charts
+- Category-wise and service-wise analytics
 
-🎓 B.Tech in Computer Science & Engineering at Dayananda Sagar University
+## Tech Stack
 
-💼 Software Engineering Intern at Tavant Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- CSV Data Processing
 
-🌱 Currently Learning:
-- Python for AI & Machine Learning
-- Data Structures & Algorithms
-- System Design
-- UI/UX Design
+## Key Skills Demonstrated
 
-🚀 Interested in:
-- Artificial Intelligence
+- Data Analysis
+- Data Visualization
+- Python Programming
+- Data Cleaning & Transformation
+- Report Automation
+- Statistical Analysis
+- Problem Solving
 - Software Development
-- Data Analytics
-- Automation
 
-📍 Bangalore, India
+## Project Overview
 
----
+The system processes raw service request datasets and transforms them into meaningful analytics through automated workflows. Visualizations such as bar charts, trend graphs, and summary statistics help identify patterns, monitor service performance, and support data-driven decisions.
 
-## 🛠️ Tech Stack
+## Future Enhancements
 
-### Languages
+- Interactive Dashboard
+- SQL Database Integration
+- Machine Learning-Based Forecasting
+- Real-Time Analytics
+- Web Application Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
-</p>
+## Author
 
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramatiiii&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramatiiii&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramatiiii&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Service Request Analytics System
-
-A Python-based analytics solution that processes service request data, generates insights, and helps identify trends through data analysis.
-
-🔗 Repository:
-https://github.com/pramatiiii/service-analytics-system
-
----
-
-## 🎯 Current Goals
-
-✔ Strengthen DSA and problem-solving skills
-
-✔ Build AI/ML projects
-
-✔ Contribute to Open Source
-
-✔ Develop full-stack applications
-
-✔ Gain industry experience through internships
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramatiiii&theme=tokyo-night" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/pramati-gupta-5b0b26321/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:your-email@example.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pramatiiii&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+Pramati Gupta  
+B.Tech Computer Science Engineering  
+Dayananda Sagar University
