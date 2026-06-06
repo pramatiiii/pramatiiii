@@ -125,24 +125,61 @@ learning = [
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pramatiiii&theme=algolia&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=pramatiiii&theme=algolia&no-frame=true&row=2&column=4" />
 </p>
-
 ---
 
-# 🐍 Contribution Snake
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: pramatiiii
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/pramatiiii/pramatiiii/output/github-contribution-grid-snake.svg">
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pramatiiii/pramatiiii/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pramatiiii/pramatiiii/output/github-contribution-grid-snake.svg"
+  />
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/pramatiiii/pramatiiii/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
-
 ---
 
 # 📫 Contact
