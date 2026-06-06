@@ -1,110 +1,47 @@
-# 📊 Service Analytics System
-
-A Python-based analytics platform designed to process, analyze, and visualize service request data. The system automates data processing workflows, generates key performance metrics, and presents insights through interactive charts and graphical reports.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Features
-
-- Service request data processing
-- Data cleaning and transformation
-- Trend analysis and KPI generation
-- Automated reporting
-- Statistical analysis
-- Interactive data visualizations
-- Performance monitoring dashboards
-
----
-
-## 📈 Analytics & Visualization
-
-### Request Distribution
-
-<img width="800" src="screenshots/request_distribution.png">
-
-### Service Category Analysis
-
-<img width="800" src="screenshots/category_analysis.png">
-
-### Monthly Trends
-
-<img width="800" src="screenshots/monthly_trends.png">
-
-### Performance Metrics Dashboard
-
-<img width="800" src="screenshots/dashboard.png">
-
----
-
-## 📂 Project Workflow
-
-```text
-Raw Service Data
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Data Processing
-        │
-        ▼
-Statistical Analysis
-        │
-        ▼
-Charts & Reports
-        │
-        ▼
-Business Insights
-```
-
 ## 💡 Skills Demonstrated
 
-- Python Programming
-- Data Analysis
-- Data Visualization
-- Pandas
-- NumPy
-- Statistical Analysis
-- Report Automation
-- Problem Solving
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
+<b>Python</b>
+</td>
 
----
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65"/><br>
+<b>Pandas</b>
+</td>
 
-## ⚙️ Installation
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65"/><br>
+<b>NumPy</b>
+</td>
 
-```bash
-git clone https://github.com/pramatiiii/service-analytics-system.git
-cd service-analytics-system
-pip install -r requirements.txt
-```
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="65"/><br>
+<b>Matplotlib</b>
+</td>
+</tr>
 
-## ▶️ Run
+<tr>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="65"/><br>
+<b>Data Analysis</b>
+</td>
 
-```bash
-python main.py
-```
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/bar-chart.png" width="65"/><br>
+<b>Visualization</b>
+</td>
 
----
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/statistics.png" width="65"/><br>
+<b>Statistics</b>
+</td>
 
-## 👩‍💻 Author
-
-**Pramati Gupta**
-
-B.Tech Computer Science Engineering  
-Dayananda Sagar University
-
-GitHub: https://github.com/pramatiiii
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/report-card.png" width="65"/><br>
+<b>Reporting</b>
+</td>
+</tr>
+</table>
