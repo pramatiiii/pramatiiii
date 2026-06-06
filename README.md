@@ -1,50 +1,110 @@
-# Service Analytics System
+# 📊 Service Analytics System
 
-A Python-based analytics platform designed to process, analyze, and visualize service request data. The system automates data processing workflows, generates key performance metrics, and provides graphical insights to support operational decision-making.
+A Python-based analytics platform designed to process, analyze, and visualize service request data. The system automates data processing workflows, generates key performance metrics, and presents insights through interactive charts and graphical reports.
 
-## Features
+---
 
-- Service request data ingestion and preprocessing
-- Data cleaning and validation
-- Statistical analysis of service records
-- Trend identification and performance monitoring
-- Automated report generation
-- Data visualization using graphs and charts
-- Category-wise and service-wise analytics
+## 🛠️ Tech Stack
 
-## Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- CSV Data Processing
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</p>
 
-## Key Skills Demonstrated
+---
 
+## 🚀 Features
+
+- Service request data processing
+- Data cleaning and transformation
+- Trend analysis and KPI generation
+- Automated reporting
+- Statistical analysis
+- Interactive data visualizations
+- Performance monitoring dashboards
+
+---
+
+## 📈 Analytics & Visualization
+
+### Request Distribution
+
+<img width="800" src="screenshots/request_distribution.png">
+
+### Service Category Analysis
+
+<img width="800" src="screenshots/category_analysis.png">
+
+### Monthly Trends
+
+<img width="800" src="screenshots/monthly_trends.png">
+
+### Performance Metrics Dashboard
+
+<img width="800" src="screenshots/dashboard.png">
+
+---
+
+## 📂 Project Workflow
+
+```text
+Raw Service Data
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Data Processing
+        │
+        ▼
+Statistical Analysis
+        │
+        ▼
+Charts & Reports
+        │
+        ▼
+Business Insights
+```
+
+## 💡 Skills Demonstrated
+
+- Python Programming
 - Data Analysis
 - Data Visualization
-- Python Programming
-- Data Cleaning & Transformation
-- Report Automation
+- Pandas
+- NumPy
 - Statistical Analysis
+- Report Automation
 - Problem Solving
-- Software Development
 
-## Project Overview
+---
 
-The system processes raw service request datasets and transforms them into meaningful analytics through automated workflows. Visualizations such as bar charts, trend graphs, and summary statistics help identify patterns, monitor service performance, and support data-driven decisions.
+## ⚙️ Installation
 
-## Future Enhancements
+```bash
+git clone https://github.com/pramatiiii/service-analytics-system.git
+cd service-analytics-system
+pip install -r requirements.txt
+```
 
-- Interactive Dashboard
-- SQL Database Integration
-- Machine Learning-Based Forecasting
-- Real-Time Analytics
-- Web Application Deployment
+## ▶️ Run
 
-## Author
+```bash
+python main.py
+```
 
-Pramati Gupta  
+---
+
+## 👩‍💻 Author
+
+**Pramati Gupta**
+
 B.Tech Computer Science Engineering  
 Dayananda Sagar University
+
+GitHub: https://github.com/pramatiiii
