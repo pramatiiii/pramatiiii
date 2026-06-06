@@ -1,13 +1,12 @@
-<!-- HEADER: Typing SVG -->
+<!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A31D1D&background=00000000&center=true&vCenter=true&random=false&width=600&lines=whoami+%3E+pramati+gupta;b.tech+cse+student+%7C+builder;ai%2Fml+learner+%7C+open+source;cat+interests.txt+%7C+grep+%22ai%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A31D1D&background=00000000&center=true&vCenter=true&random=false&width=700&lines=whoami+%3E+pramati+gupta;b.tech+cse+%40+DSU+%7C+builder;ai%2Fml+enthusiast+%7C+open+source;cat+interests.txt+%7C+grep+%22machine+learning%22)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- BADGES -->
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pramatiiii&color=810B38&style=flat-square&label=profile+views)](https://github.com/pramatiiii)
@@ -27,8 +26,7 @@ $ cat /etc/profile.d/pramati.sh
 
   NAME       → Pramati Gupta
   ROLE       → B.Tech CSE Student · AI/ML Enthusiast · Builder
-  COLLEGE    → YOUR_COLLEGE_NAME, Bangalore
-  YEAR       → YOUR_YEAR (e.g. 2nd Year)
+  COLLEGE    → Dayananda Sagar University, Bangalore
   FOCUS      → AI/ML · Python · Java · Data Analytics · UI/UX
   STATUS     → open to internships · learning every day
   OS         → whatever gets the job done
@@ -44,10 +42,9 @@ $ cat /etc/profile.d/pramati.sh
 class Pramati:
     def __init__(self):
         self.name        = "Pramati Gupta"
-        self.pronouns    = ["she", "her"]     # update if needed
         self.location    = "Bangalore, India 🇮🇳"
-        self.university  = "YOUR_COLLEGE_NAME"
-        self.focus       = ["AI/ML", "Python", "Java", "UI/UX"]
+        self.university  = "Dayananda Sagar University"
+        self.focus       = ["AI/ML", "Python", "Java", "Data Analytics", "UI/UX"]
         self.currently   = {
             "building"    : ["fakenews_detector", "url-shortener", "qr-website"],
             "learning"    : ["Machine Learning", "DSA", "System Design", "UI/UX"],
@@ -90,7 +87,8 @@ class Pramati:
 {
   "languages"        : ["Python", "Java", "JavaScript", "HTML", "CSS"],
   "ml_ai"            : ["scikit-learn", "Pandas", "NumPy"],
-  "tools"            : ["Git", "GitHub", "VS Code", "Figma"],
+  "design"           : ["Figma", "UI/UX"],
+  "tools"            : ["Git", "GitHub", "VS Code"],
   "currently_loading": ["Machine Learning", "System Design", "DSA"]
 }
 ```
